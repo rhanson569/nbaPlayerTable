@@ -1,0 +1,82 @@
+document()
+library(devtools)
+document()
+document()
+document()
+install.packages("roxygen2")
+install.packages("roxygen2")
+library(roxygen2)
+document()
+document()
+document()
+document()
+devtools::load_all(".")
+document()
+install.packages('dplyr')
+document()
+library(nbaPlayerTable)
+install.packages('Rtools')
+install.packages('Rtools40')
+install.packages('rtools40')
+library(nbaPlayerTable)
+devtools::load_all(".")
+library(nbaPlayerTable)
+library(nbaPlayerTable)
+library(nbaPlayerTable)
+library(nbaPlayerTable)
+library(nbaPlayerTable)
+library(nbaPlayerTable)
+library(nbaPlayerTable)
+library(nbaPlayerTable)
+library(nbaPlayerTable)
+Sys.getenv('PATH')
+Sys.setenv(PATH = paste(Sys.getenv("PATH"),
+"C:\\RTools40",
+"C:\\RTools40\\mingw64\\bin",
+sep = ";"))
+Sys.getenv('PATH')
+library(nbaPlayerTable)
+devtools::load_all(".")
+library(nbaPlayerTable)
+Sys.setenv(PATH = paste(Sys.getenv("PATH"),
+"C:\\rtools40",
+"C:\\rtools40\\mingw64\\bin",
+sep = ";"))
+Sys.getenv('PATH')
+library(nbaPlayerTable)
+Sys.setenv(PATH = paste(Sys.getenv("PATH"),
+"C:\\RTools40\\usr\\bin",
+sep = ";"))
+Sys.getenv('PATH')
+library(nbaPlayerTable)
+devtools::load_all(".")
+library(nbaPlayerTable)
+Sys.setenv(PATH = paste(Sys.getenv("PATH"),
+"C:\\rtools40\\usr\\bin",
+sep = ";"))
+library(nbaPlayerTable)
+Sys.setenv(PATH = paste(Sys.getenv("PATH"),
+"C:\rtools40\usr\bin",
+sep = ";"))
+Sys.setenv(PATH = paste(Sys.getenv("PATH"),
+"C:\\rtools40\\usr\\bin",
+sep = ";"))
+Sys.getenv('PATH')
+library(nbaPlayerTable)
+Sys.setenv(PATH = paste(Sys.getenv("PATH"),
+"C:\rtools40\usr\bin;${PATH}",
+sep = ";"))
+library(nbaPlayerTable)
+library(nbaPlayerTable)
+library(devtools\)
+library(devtools)
+library(roxygen2)
+document()
+library(nbaPlayerTable)
+library(nbaPlayerTable)
+RStudio.Version()$version
+library(nbaPlayerTable)
+RStudio.Version()$version
+RStudio.Version()$version
+RStudio.Version()$version
+library(devtools)

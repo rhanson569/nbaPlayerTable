@@ -1,0 +1,12 @@
+Package: nbaPlayerTable
+Type: Package
+Title: Filter NBA Player Data
+Version: 4.0.3
+Author: Ryan Hanson
+Maintainer: Ryan Hanson <rhanson569@gmail.com>
+Description: Generate NBA player table by year and team. Extracts html table from basketball-reference.com.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Imports: tidyverse, rvest

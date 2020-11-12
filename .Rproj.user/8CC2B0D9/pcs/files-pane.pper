@@ -1,0 +1,9 @@
+{
+    "path": "~/nbaPlayerTable",
+    "sortOrder": [
+        {
+            "columnIndex": 2,
+            "ascending": true
+        }
+    ]
+}
