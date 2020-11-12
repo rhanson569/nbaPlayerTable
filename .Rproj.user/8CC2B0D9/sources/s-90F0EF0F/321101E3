@@ -3,7 +3,7 @@
     "path": "~/nbaPlayerTable/NAMESPACE",
     "project_path": "NAMESPACE",
     "type": "r_namespace",
-    "hash": "827708961",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1605141682529.0,
@@ -14,11 +14,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1605142110,
+    "lastKnownWriteTime": 1605209618,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1605142110,
-    "read_only": true,
+    "last_content_update": 1605209618,
+    "read_only": false,
     "read_only_alternatives": []
 }
